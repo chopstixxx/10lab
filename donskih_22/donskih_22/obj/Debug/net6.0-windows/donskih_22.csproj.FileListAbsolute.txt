@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Debug\net6.0-windows\donskih_22.exe
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Debug\net6.0-windows\donskih_22.deps.json
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Debug\net6.0-windows\donskih_22.runtimeconfig.json
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Debug\net6.0-windows\donskih_22.dll
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Debug\net6.0-windows\donskih_22.pdb
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.Form1.resources
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.csproj.GenerateResource.cache
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.AssemblyInfo.cs
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.dll
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\ref\donskih_22.dll
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.pdb
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\donskih_22.genruntimeconfig.cache
+C:\Users\User\source\repos\donskih_22\donskih_22\obj\Debug\net6.0-windows\refint\donskih_22.dll

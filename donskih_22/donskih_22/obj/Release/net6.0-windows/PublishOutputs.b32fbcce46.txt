@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Release\net6.0-windows\publish\donskih_22.exe
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Release\net6.0-windows\publish\donskih_22.dll
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Release\net6.0-windows\publish\donskih_22.deps.json
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Release\net6.0-windows\publish\donskih_22.runtimeconfig.json
+C:\Users\User\source\repos\donskih_22\donskih_22\bin\Release\net6.0-windows\publish\donskih_22.pdb
